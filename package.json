@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "fitty": "^2.3.5",
     "pick-random": "^4.0.0"
   }
 }
