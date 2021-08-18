@@ -19,6 +19,9 @@ html {
 
 body{
 	font-family: 'Comic Neue';
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
 }
 
 button,
