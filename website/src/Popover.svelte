@@ -20,9 +20,9 @@
                 <li><a href="https://www.vecteezy.com/free-vector/decorative">Decorative Vectors by Vecteezy</a></li>
             </ul>
 
-            <h3>Github Repo</h3>
+            <h3>Code</h3>
             <ul>
-                <li><a href="https://www.vecteezy.com/free-vector/soda-can-vector-free">Soda Can Vector Free Vectors by Vecteezy</a></li>
+                <li><a href="https://github.com/giggity-hub/ice-tea-name-generator">Github Repo</a></li>
             </ul>
         </div>
     {/if}
