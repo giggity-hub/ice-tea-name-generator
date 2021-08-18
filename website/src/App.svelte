@@ -8,6 +8,7 @@ import SodaCan from "./SodaCan.svelte";
 import colors from './Colors';
 import { fade, fly } from 'svelte/transition';
 import Backdrop from "./Backdrop.svelte";
+import Popover from "./Popover.svelte";
 
 	// <a href="https://www.vecteezy.com/free-vector/soda-can-vector-free">Soda Can Vector Free Vectors by Vecteezy</a>
 	// <a href="https://www.vecteezy.com/free-vector/decorative">Decorative Vectors by Vecteezy</a>
@@ -83,6 +84,7 @@ import Backdrop from "./Backdrop.svelte";
 </script>
 
 <main style="--primary: {primary}; --secondary: {secondary}" >
+	<Popover/>
 	<!-- <Header/> -->
 	
 	{#key dirTea}

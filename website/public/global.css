@@ -18,7 +18,7 @@ html {
 }
 
 body{
-	background: var(--background);
+	font-family: 'Comic Neue';
 }
 
 button,
